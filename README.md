@@ -13,4 +13,4 @@ for i in range (0,n):
 print(thisList)
 print(valorfinal)
 
-# No se puede concluir la convergencia para |r|<1 pues al calcular los resultados cambiando r por valores entre 0.1 y 0.9 la serie toma  valores diferentes alejados entre sí.
+# No se puede concluir a que número converge para |r|<1 pues al calcular los resultados cambiando r por valores entre 0.1 y 0.9 la serie toma valores diferentes alejados entre sí. Sim embargo, la serie no diverge con |r|<1.
